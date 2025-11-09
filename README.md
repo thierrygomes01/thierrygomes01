@@ -1,4 +1,4 @@
-<span style="font-size: 20px; font-weight: 700;">Olá sou o Thierry✌️<br/>Atualmente estudo análise e desenvolvimento de sistemas e estou no 3°semestre.</span><br/>
+<span style="font-size: 20px; font-weight: 700;">Olá sou o Thierry✌️<br/>Atualmente estudo análise e desenvolvimento de sistemas e estou no 4°semestre.</span><br/>
 <span style="font-size: 20px; font-weight: 700;">Sempre buscando me atualizar, estudando e explorando novas tecnologias para aprimorar meus conhecimentos.</span><br/>
 <span style="font-size: 20px; font-weight: 700;">Email: thierry.gomes1002@gmail.com</span><br/><br/>
 
